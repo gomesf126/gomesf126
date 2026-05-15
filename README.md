@@ -2,7 +2,7 @@
 
 Sou um profissional em desenvolvimento na area de dados, com foco em Python, Pandas, analytics, pipelines ETL, dashboards e projetos ponta a ponta orientados a negocio.
 
-Atualmente estou construindo um portfolio aplicado a diferentes dominios, como varejo, saude, vendas e negocios. Meu foco e transformar dados brutos em metricas, features, visualizacoes e insights que apoiem decisoes.
+Atualmente estou construindo um portfolio aplicado a diferentes dominios, como varejo, saude, vendas e negocios. Minha prioridade atual e finalizar o projeto de analytics para varejo; em seguida, vou evoluir o dashboard Aguia Saude com indicadores e machine learning.
 
 ## Foco Atual
 
@@ -28,7 +28,7 @@ Atualmente estou construindo um portfolio aplicado a diferentes dominios, como v
 
 ### Retail Analytics Pipeline
 
-Projeto principal de analytics para varejo, em construcao, com arquitetura modular para ingestao, limpeza, feature engineering, metricas de negocio, load e dashboard.
+Projeto principal e prioridade atual do portfolio, em construcao, com arquitetura modular para ingestao, limpeza, feature engineering, metricas de negocio, load e dashboard.
 
 Este projeto tem potencial para consolidar uma visao completa de varejo, incluindo performance por loja, categoria, produto, cliente, sazonalidade, churn e classificacao ABC.
 
@@ -36,7 +36,7 @@ Repositorio: [retail-analytics-pipeline](https://github.com/gomesf126/retail-ana
 
 ### Aguia Saude Dashboard
 
-Dashboard de saude em construcao, com foco em monitoramento de indicadores de clinicas e hospitais. O projeto tambem esta sendo pensado para incluir recursos de machine learning aplicados a previsao de demanda e apoio analitico.
+Proximo projeto de destaque apos a finalizacao do pipeline de varejo. E um dashboard de saude em construcao, com foco em monitoramento de indicadores de clinicas e hospitais, e tambem esta sendo pensado para incluir recursos de machine learning aplicados a previsao de demanda e apoio analitico.
 
 Principais temas:
 
