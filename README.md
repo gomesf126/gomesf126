@@ -1,92 +1,117 @@
-# Fabiano Aranha
+# Fabiano Gomes
 
-Sou um profissional em desenvolvimento na area de dados, com foco em Python, Pandas, analytics, pipelines ETL, dashboards e projetos ponta a ponta orientados a negocio.
+## Engenharia e Análise de Dados
 
-Atualmente estou construindo um portfolio aplicado a diferentes dominios, como varejo, saude, vendas e negocios. Minha prioridade atual e finalizar o projeto de analytics para varejo; em seguida, vou evoluir o dashboard Aguia Saude com indicadores e machine learning.
+Construindo pipelines analíticos profissionais utilizando Python, Pandas, NumPy, Plotly e Streamlit.
 
-## Foco Atual
+---
 
-- Python para analise e processamento de dados
-- Pandas para limpeza, transformacao e feature engineering
-- Pipelines ETL organizados em camadas
-- Dashboards analiticos com foco em negocio
-- Machine learning aplicado a problemas reais
-- Analises de vendas, varejo, saude, clientes, produtos e demanda
-- Boas praticas de Git, GitHub e organizacao de projetos
+# Sobre Mim
 
-## Tecnologias
+Atualmente desenvolvendo projetos completos de análise e engenharia de dados focados em:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+* Arquitetura profissional de dados
+* ETL e pipelines analíticos
+* Engenharia de features
+* Dashboards interativos
+* Análises de negócio
+* Automação de processos
+* Projetos end-to-end
 
-## Projetos em Destaque
+---
 
-### Retail Analytics Pipeline
+# Stack Principal
 
-Projeto principal e prioridade atual do portfolio, em construcao, com arquitetura modular para ingestao, limpeza, feature engineering, metricas de negocio, load e dashboard.
+## Linguagens e Bibliotecas
 
-Este projeto tem potencial para consolidar uma visao completa de varejo, incluindo performance por loja, categoria, produto, cliente, sazonalidade, churn e classificacao ABC.
+* Python
+* Pandas
+* NumPy
+* Plotly
+* Streamlit
 
-Repositorio: [retail-analytics-pipeline](https://github.com/gomesf126/retail-analytics-pipeline)
+---
 
-### Aguia Saude Dashboard
+# Principais Competências
 
-Proximo projeto de destaque apos a finalizacao do pipeline de varejo. E um dashboard de saude em construcao, com foco em monitoramento de indicadores de clinicas e hospitais, e tambem esta sendo pensado para incluir recursos de machine learning aplicados a previsao de demanda e apoio analitico.
+## Engenharia de Dados
 
-Principais temas:
+* Pipeline ETL
+* Limpeza e tratamento de dados
+* Feature Engineering
+* Transformações analíticas
+* Arquitetura modular
+* Organização profissional de projetos
 
-- Pacientes, consultas e exames
-- Tempo de espera
-- Retorno de pacientes
-- Doencas mais frequentes
-- Previsao de demanda
-- Indicadores operacionais para gestao em saude
+---
 
-Repositorio: [aguia-saude-dashboard](https://github.com/gomesf126/aguia-saude-dashboard)
+## Análise de Dados
 
-### Sales Analytics Pipeline
+* GroupBy
+* Transform
+* Pivot Table
+* Rankings analíticos
+* Sazonalidade
+* Churn
+* Curva ABC
+* Métricas de negócio
 
-Pipeline de analise de vendas em Python, com etapas de extracao, transformacao, criacao de features, metricas de negocio e exportacao dos resultados.
+---
 
-Este projeto representa uma base importante da minha evolucao em pipelines de dados, com metricas de cliente, produto, churn e classificacao ABC.
+# Projeto Principal
 
-Repositorio: [sales analytics pipeline](https://github.com/gomesf126/End-to-End-Sales-Analytics-Pipeline)
+## Gastos-governo-federal
 
-## Como Organizo Meus Projetos
+Pipeline analítico profissional focado em análise de gastos públicos utilizando:
 
-Gosto de estruturar projetos de dados de forma clara e escalavel:
+* Python
+* Pandas
+* NumPy
+* Plotly
+* Streamlit
 
-```text
-data/
-  raw/
-  processed/
-src/
-  extract/
-  transform/
-  analytics/
-  load/
-  dashboard/
-  pipeline/
-README.md
-.gitignore
-requirements.txt
-main.py
-```
+### Objetivos
 
-Essa organizacao ajuda a separar responsabilidades, facilitar manutencao e aproximar os projetos de um fluxo real de trabalho em dados.
+* Análise de gastos públicos
+* Rankings financeiros
+* Monitoramento de despesas
+* Dashboards analíticos
+* Insights governamentais
+* Engenharia de dados aplicada
 
-## Objetivo
+---
 
-Meu objetivo e evoluir continuamente em dados, construindo projetos com qualidade tecnica, clareza de negocio e boas praticas de versionamento.
+# Projetos em Desenvolvimento
 
-Estou focado em criar um portfolio aplicado, com projetos que mostrem raciocinio analitico, organizacao de codigo, entendimento de negocio e capacidade de transformar dados em decisao.
+* Retail Analytics Pipeline
+* Dashboard Comercial
+* Pipeline de Análise Governamental
+* Projetos de Engenharia de Dados
+* Dashboards Analíticos
 
-## Contato
+---
 
-- GitHub: [github.com/gomesf126](https://github.com/gomesf126)
-- Email: gomesf126@gmail.com
+# Objetivo Profissional
+
+Evoluir para atuar profissionalmente com:
+
+* Engenharia de Dados
+* Analytics Engineering
+* Data Science
+* Desenvolvimento de pipelines analíticos
+* Arquitetura de dados
+
+---
+
+# GitHub Stats
+
+![Fabiano GitHub stats](https://github-readme-stats.vercel.app/api?username=gomesf126\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomesf126\&layout=compact\&theme=tokyonight)
+
+---
+
+# Contato
+
+* GitHub: [https://github.com/gomesf126](https://github.com/gomesf126)
+* Perfil focado em projetos de dados e engenharia analítica
